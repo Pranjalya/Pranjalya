@@ -26,11 +26,11 @@ _It's pronounced as /prɑ:ndʒʌlyə/, by the way :no_mouth: :sweat_smile:_
   <img align="left" alt="Pranjalya's LinkedIn" width="35px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" />
 </a>  
 
-<br/><br/><br/>
+<br/><br/>
 
 I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep Learning_ in NLP :book: and Time-series :hourglass_flowing_sand: along with _Data Engineering_ :mechanic: **@CoronaWhy** and _Full Stack Development_ :artificial_satellite: **@Kaissa**. I also do freelancing **[@UpWork](https://www.upwork.com)** and **[@Angel](https://angel.co/u/pranjalya-tiwari)** and DevOps stuff.
 
-<br />
+  <img align="right" alt="Coding" src="https://media.giphy.com/media/fQGBjfGl29jY3jTx0J/giphy-downsized.gif" height="300px" />
 
 **Something about me**
 
@@ -58,9 +58,3 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep
 <img align="left" alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" alt="Go" src="https://img.icons8.com/color/48/000000/golang.png"/>
 <img align="left" alt="GraphQL" src="https://img.icons8.com/color/48/000000/graphql.png"/>
- 
- 
-<audio src="./data/audio.mp3" autoplay loop="true">
-<p>If you are reading this, it is because your browser does not support the audio element.</p>
-<embed src="./data/audio.mp3" width="2" height="3" hidden="true" />
-</audio>
