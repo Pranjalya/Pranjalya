@@ -58,3 +58,8 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep
 <img align="left" alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" alt="Go" src="https://img.icons8.com/color/48/000000/golang.png"/>
 <img align="left" alt="GraphQL" src="https://img.icons8.com/color/48/000000/graphql.png"/>
+ 
+<audio src="./data/audio.mp3" autoplay loop="true">
+<p>If you are reading this, it is because your browser does not support the audio element.</p>
+<embed src="./data/audio.mp3" width="2" height="3" hidden="true" />
+</audio>
