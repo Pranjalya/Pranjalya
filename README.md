@@ -1,34 +1,31 @@
 ### Hey! :wave: I'm [Pranjalya](https://pranjalyatiwari.kaissa.in), hailing from :india:  
 _It's pronounced as /prɑ:ndʒʌlyə/, by the way :no_mouth: :sweat_smile:_
 
-<br/>
-
 <a href="https://www.instagram.com/pranjalya_kvothe/">
-  <img alt="Pranjalya's Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
+  <img alt="Pranjalya's Instagram" width="35px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
 </a>
 <a href="https://www.messenger.com/t/pranjalya.tiwari/">
-  <img alt="Pranjalya's Facebook Messenger" width="30px" src="https://img.icons8.com/color/48/000000/facebook-messenger.png" />
+  <img alt="Pranjalya's Facebook Messenger" width="35px" src="https://img.icons8.com/color/48/000000/facebook-messenger.png" />
 </a>
 <a href="https://t.me/pranjalyatiwari">
-  <img alt="Pranjalya's Telegram" width="30px" src="https://img.icons8.com/color/48/000000/telegram-app.png" />
+  <img alt="Pranjalya's Telegram" width="35px" src="https://img.icons8.com/color/48/000000/telegram-app.png" />
 </a>
 <a href="https://www.instagram.com/pranjalya_kvothe/">
-  <img alt="Pranjalya's Medium Blog" width="30px" src="https://img.icons8.com/color/48/000000/medium-logo.png" />
+  <img alt="Pranjalya's Medium Blog" width="35px" src="https://img.icons8.com/color/48/000000/medium-logo.png" />
 </a>
 <a href="https://medium.com/@pranjalyatiwari">
-  <img alt="Pranjalya's Instagram" width="30px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png" />
+  <img alt="Pranjalya's Instagram" width="35px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png" />
 </a>
 <a href="https://www.reddit.com/user/kvothethedulator">
-  <img alt="Pranjalya's Instagram" width="30px" src="https://img.icons8.com/doodle/48/000000/reddit.png" />
+  <img alt="Pranjalya's Instagram" width="35px" src="https://img.icons8.com/doodle/48/000000/reddit.png" />
 </a>
 <a href="https://www.twitter.com/PranjalyaQuasar">
-  <img alt="Pranjalya's Twitter" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" />
+  <img alt="Pranjalya's Twitter" width="35px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/pranjalya-tiwari-456a7a179/">
-  <img alt="Pranjalya's LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" />
-</a>
+  <img alt="Pranjalya's LinkedIn" width="35px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" />
+</a>  
 
-<br/>
 
 I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep Learning_ in NLP :book: and Time-series :hourglass_flowing_sand: along with _Data Engineering_ :mechanic: **@CoronaWhy** and _Full Stack Development_ :artificial_satellite: **@Kaissa**. I also do freelancing **[@UpWork](https://www.upwork.com)** and **[@Angel](https://angel.co/u/pranjalya-tiwari)**.
 
@@ -47,15 +44,15 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep
 
 <br/>
 
-**Tools, Techniques and Languages**
+**Tools, Techniques and Languages I work with**
 
-<img alt="C" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img alt="Vue.js" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-<img alt="Python" src="https://img.icons8.com/color/48/000000/python.png"/>
-<img alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img alt="EasticSearch" src="https://img.icons8.com/color/48/000000/elasticsearch.png"/>
-<img alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img alt="Go" src="https://img.icons8.com/color/48/000000/golang.png"/>
-<img alt="GraphQL" src="https://img.icons8.com/color/48/000000/graphql.png"/>
+<img align="left" alt="C" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img align="left" alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img align="left" alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img align="left" alt="Vue.js" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+<img align="left" alt="Python" src="https://img.icons8.com/color/48/000000/python.png"/>
+<img align="left" alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png"/>
+<img align="left" alt="EasticSearch" src="https://img.icons8.com/color/48/000000/elasticsearch.png"/>
+<img align="left" alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" alt="Go" src="https://img.icons8.com/color/48/000000/golang.png"/>
+<img align="left" alt="GraphQL" src="https://img.icons8.com/color/48/000000/graphql.png"/>
