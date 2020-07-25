@@ -34,7 +34,7 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep
 
 **Something about me**
 
-- 🔭 I’m currently working on a **WeCare**
+- 🔭 I’m currently working on **WeCare**
 - 🌱 I’m currently learning GraphQL
 - 👯 I’m looking to collaborate on any Reinforcement Learning task
 - :thinking: I’m looking for help with... :sweat_smile:
