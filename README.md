@@ -62,7 +62,7 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep
 </p>
 <br/><br/><br/>
 
-<p><i>Note: This is just a general breakdown, it doesn't reflect my strength or weaknesses.</i></p>
+<p><i>Note: This is just a general breakdown, it doesn't reflect my strength or weaknesses. For example, I don't work with Java, it's because of Cordova.</i></p>
 
 <!-- Stats Dashboard -->
 <p align = "center">
