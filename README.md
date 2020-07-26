@@ -47,7 +47,7 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep
 <br/>
 
 **Tools, Techniques and Languages I work with generally**
-
+<p>
 <img align="left" alt="C" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align="left" alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
@@ -59,8 +59,8 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep
 <img align="left" alt="Go" src="https://img.icons8.com/color/48/000000/golang.png"/>
 <img align="left" alt="GraphQL" src="https://img.icons8.com/color/48/000000/graphql.png"/>
 <img align="left" alt="Bash" src="https://img.icons8.com/color/48/000000/console.png"/>
-
-<br/>
+</p>
+<br/><br/>
 
 <!-- Stats Dashboard -->
 <p align = "center">
