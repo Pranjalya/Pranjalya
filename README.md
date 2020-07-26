@@ -62,9 +62,10 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep
 </p>
 <br/><br/><br/>
 
+<p><i>Note: This is just a general breakdown, it doesn't reflect my strength or weaknesses.</i></p>
+
 <!-- Stats Dashboard -->
 <p align = "center">
-  <p><i>Note: This is just a general breakdown, it doesn't reflect my strength or weaknesses.</i></p>
   <img src = "https://github-readme-stats.vercel.app/api?username=Pranjalya&show_icons=true&theme=dracula&line_height=40&bg_color=506487&title_color=F19FAC">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalya&hide_langs_below=12.5&theme=dracula&bg_color=506487&title_color=F19FAC">
 </p>
