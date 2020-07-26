@@ -30,7 +30,7 @@ _It's pronounced as /prɑ:ndʒʌlyə/, by the way :no_mouth: :sweat_smile:_
 
 I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep Learning_ in NLP :book: and Time-series :hourglass_flowing_sand: along with _Data Engineering_ :mechanic: **@CoronaWhy** and _Full Stack Development_ :artificial_satellite: **@Kaissa**. I also do freelancing **[@UpWork](https://www.upwork.com)** and **[@Angel](https://angel.co/u/pranjalya-tiwari)** and DevOps stuff.
 
-  <img align="right" alt="Coding" src="https://media.giphy.com/media/fQGBjfGl29jY3jTx0J/giphy-downsized.gif" height="350px" />
+  <img align="right" alt="Coding" src="https://media.giphy.com/media/fQGBjfGl29jY3jTx0J/giphy-downsized.gif" height="340px" />
 
 **Something about me**
 
@@ -58,3 +58,12 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep
 <img align="left" alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" alt="Go" src="https://img.icons8.com/color/48/000000/golang.png"/>
 <img align="left" alt="GraphQL" src="https://img.icons8.com/color/48/000000/graphql.png"/>
+<img align="left" alt="Bash" src="https://img.icons8.com/color/48/000000/console.png"/>
+
+<br/>
+
+<!-- Stats Dashboard -->
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Pranjalya&show_icons=true&theme=dracula&line_height=40&bg_color=506487&title_color=F19FAC">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalya&hide_langs_below=12.5&theme=dracula&bg_color=506487&title_color=F19FAC">
+</p>
