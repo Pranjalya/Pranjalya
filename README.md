@@ -17,7 +17,7 @@ _It's pronounced as /prɑ:ndʒʌlyə/, by the way :no_mouth: :sweat_smile:_
   <img align="left" alt="Pranjalya's Discord Channel (Kvothe)" width="35px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png" />
 </a>
 <a href="https://www.reddit.com/user/kvothethedulator">
-  <img align="left" alt="Pranjalya's Instagram" width="35px" src="https://img.icons8.com/doodle/48/000000/reddit.png" />
+  <img align="left" alt="Pranjalya's Reddit" width="35px" src="https://img.icons8.com/doodle/48/000000/reddit.png" />
 </a>
 <a href="https://www.twitter.com/PranjalyaQuasar">
   <img align="left" alt="Pranjalya's Twitter" width="35px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" />
@@ -25,6 +25,12 @@ _It's pronounced as /prɑ:ndʒʌlyə/, by the way :no_mouth: :sweat_smile:_
 <a href="https://www.linkedin.com/in/pranjalya-tiwari-456a7a179/">
   <img align="left" alt="Pranjalya's LinkedIn" width="35px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" />
 </a>  
+<a href="https://www.upwork.com/o/profiles/users/~01645ae72f0f0ef1f6/">
+  <img align="left" alt="Pranjalya's UpWork" width="35px" src="https://img.icons8.com/ios-filled/50/000000/upwork.png" />
+</a>
+<a href="https://angel.co/u/pranjalya-tiwari">
+  <img align="left" alt="Pranjalya's AngeList" width="35px" src="https://img.icons8.com/nolan/64/angelist.png" />
+</a>
 
 <br/><br/>
 
@@ -59,6 +65,7 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep
 <img align="left" alt="Go" src="https://img.icons8.com/color/48/000000/golang.png"/>
 <img align="left" alt="GraphQL" src="https://img.icons8.com/color/48/000000/graphql.png"/>
 <img align="left" alt="Bash" src="https://img.icons8.com/color/48/000000/console.png"/>
+<img align="left" alt="Kubernetes" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
 </p>
 <br/><br/><br/>
 
