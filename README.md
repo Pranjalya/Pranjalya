@@ -25,9 +25,6 @@ _It's pronounced as /prɑ:ndʒʌlyə/, by the way :no_mouth: :sweat_smile:_
 <a href="https://www.linkedin.com/in/pranjalya-tiwari-456a7a179/">
   <img align="left" alt="Pranjalya's LinkedIn" width="35px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" />
 </a>  
-<a href="https://www.upwork.com/o/profiles/users/~01645ae72f0f0ef1f6/">
-  <img align="left" alt="Pranjalya's UpWork" width="35px" src="https://img.icons8.com/ios-filled/50/000000/upwork.png" />
-</a>
 <a href="https://angel.co/u/pranjalya-tiwari">
   <img align="left" alt="Pranjalya's AngeList" width="35px" src="https://img.icons8.com/nolan/64/angelist.png" />
 </a>
