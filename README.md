@@ -44,7 +44,7 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep
 - 💬 Ask me about anything. Either in AI field or beyond. I love answering questions.
 - 📫 How to reach me: Any of the platform above. I will be available. :smile: But, if you love gmail : _pranjalyatiwari10@gmail.com_
 - ⚡ Fun fact: I am an alien :alien:
-- :heart: What do I love: Astronomy, Astrophysics, Cosmology, Writing :stars:
+- :heart: What do I love: Astronomy, Astrophysics, Cosmology, Writing and Cricket :stars:
 - :scroll: My Resume: [Pranjalya Tiwari](https://drive.google.com/file/d/1w9bIcC8-aemhjBXrOEI5ztscGTHkKne6/view?usp=sharing)
 
 <br/>
