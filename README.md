@@ -13,9 +13,6 @@ _It's pronounced as /prɑ:ndʒʌlyə/, by the way :no_mouth: :sweat_smile:_
 <a href="https://medium.com/@pranjalyatiwari">
   <img align="left" alt="Pranjalya's Medium Blog" width="35px" src="https://img.icons8.com/color/48/000000/medium-logo.png" />
 </a>
-<a href="https://discord.gg/FCSKccz">
-  <img align="left" alt="Pranjalya's Discord Channel (Kvothe)" width="35px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png" />
-</a>
 <a href="https://www.reddit.com/user/kvothethedulator">
   <img align="left" alt="Pranjalya's Reddit" width="35px" src="https://img.icons8.com/doodle/48/000000/reddit.png" />
 </a>
