@@ -67,6 +67,4 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep
 
 <!-- Stats Dashboard -->
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Pranjalya&show_icons=true&theme=dracula&line_height=40&bg_color=506487&title_color=F19FAC">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalya&hide_langs_below=12.5&theme=dracula&bg_color=506487&title_color=F19FAC">
 </p>
