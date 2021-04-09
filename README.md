@@ -1,4 +1,4 @@
-### Hey! :wave: I'm [Pranjalya](https://pranjalyatiwari.kaissa.in), hailing from :india:  
+### Hey! :wave: I'm [Pranjalya](https://pranjalya.github.io), hailing from :india:  
 _It's pronounced as /prɑ:ndʒʌlyə/, by the way :no_mouth: :sweat_smile:_
 
 <a href="https://www.instagram.com/pranjalya_kvothe/">
