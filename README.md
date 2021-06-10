@@ -42,7 +42,7 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep
 - 📫 How to reach me: Any of the platform above. I will be available. :smile: But, if you love gmail : _pranjalyatiwari10@gmail.com_
 - ⚡ Fun fact: I am an alien :alien:
 - :heart: What do I love: Astronomy, Chess, Astrophysics, Cosmology, Writing and Cricket :stars:
-- :scroll: My Resume: [Pranjalya Tiwari](https://drive.google.com/file/d/1uVopGhItuzrIaH9deR5xBUELKDqHWf8q/view?usp=sharing)
+- :scroll: My Resume: [Pranjalya Tiwari](https://drive.google.com/file/d/11SXNaZpv7n_vY3FobC0gC9BdEvUAFxX0/view?usp=sharing)
 
 <br/>
 
