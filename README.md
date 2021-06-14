@@ -19,7 +19,7 @@ _It's pronounced as /prɑ:ndʒʌlyə/, by the way :no_mouth: :sweat_smile:_
 <a href="https://www.twitter.com/PranjalyaQuasar">
   <img align="left" alt="Pranjalya's Twitter" width="35px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" />
 </a>
-<a href="https://www.linkedin.com/in/pranjalya-tiwari-456a7a179/">
+<a href="https://www.linkedin.com/in/pranjalya-tiwari/">
   <img align="left" alt="Pranjalya's LinkedIn" width="35px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" />
 </a>  
 <a href="https://angel.co/u/pranjalya-tiwari">
@@ -34,8 +34,8 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep
 
 **Something about me**
 
-- 🔭 I’m currently working on **WeCare**
-- 🌱 I’m currently learning GraphQL
+- 🔭 I’m currently working on **Algorithmic Trading**
+- 🌱 I’m currently learning PyTorch
 - 👯 I’m looking to collaborate on any Reinforcement Learning task
 - :thinking: I’m looking for help with... :sweat_smile:
 - 💬 Ask me about anything. Either in AI field or beyond. I love answering questions.
@@ -54,12 +54,12 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Deep
 <img align="left" alt="Vue.js" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 <img align="left" alt="Python" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img align="left" alt="EasticSearch" src="https://img.icons8.com/color/48/000000/elasticsearch.png"/>
+<img align="left" alt="ElasticSearch" src="https://img.icons8.com/color/48/000000/elasticsearch.png"/>
 <img align="left" alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" alt="Go" src="https://img.icons8.com/color/48/000000/golang.png"/>
 <img align="left" alt="GraphQL" src="https://img.icons8.com/color/48/000000/graphql.png"/>
 <img align="left" alt="Bash" src="https://img.icons8.com/color/48/000000/console.png"/>
-<img align="left" alt="Kubernetes" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+<img align="left" alt="Tensorflow" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 </p>
 <br/><br/><br/>
 
