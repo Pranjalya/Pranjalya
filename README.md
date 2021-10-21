@@ -28,7 +28,7 @@ _It's pronounced as /prɑ:ndʒʌlyə/, by the way :no_mouth: :sweat_smile:_
 
 <br/><br/>
 
-I am a __Software Engineer__ :man_technologist:, who works in the field of _Machine Learning_ and _Deep Learning_ in NLP :book:, Time-series :hourglass_flowing_sand:, Audio & Signal processing :notes: and Computer Vision :desktop_computer: along with _Data Engineering_ :mechanic: **@CoronaWhy** and _Full Stack Development_ :artificial_satellite: **@Kaissa**. I also do freelancing **[@Angel](https://angel.co/u/pranjalya-tiwari)** and DevOps stuff.
+I am a __Software Engineer__ :man_technologist:, who works in the field of _Machine Learning_ and _Deep Learning_ in NLP :book:, Time-series :hourglass_flowing_sand:, Audio & Signal processing :notes: and Computer Vision :desktop_computer: in **@deepsync-technologies** along with _Data Engineering_ :mechanic: **@CoronaWhy** and _Full Stack Development_ :artificial_satellite: **@Kaissa**. I also do freelancing **[@Angel](https://angel.co/u/pranjalya-tiwari)** and DevOps stuff.
 
   <img align="right" alt="Coding" src="https://media.giphy.com/media/fQGBjfGl29jY3jTx0J/giphy-downsized.gif" height="340px" />
 
