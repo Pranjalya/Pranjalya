@@ -1,6 +1,13 @@
 ### Hey! :wave: I'm [Pranjalya](https://pranjalya.github.io), hailing from :india:  
 _It's pronounced as /prɑ:ndʒʌlyə/, by the way :no_mouth: :sweat_smile:_
 
+[![GitHub vermakhushboo](https://img.shields.io/github/followers/Pranjalya?label=follow&style=social)](https://github.com/Pranjalya)
+[![Linkedin: Khushboo Verma](https://img.shields.io/badge/-Pranjalya%20Tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjalya-tiwari/)](https://www.linkedin.com/in/pranjalya-tiwari/)
+[![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/PranjalyaQuasar?style=social)](https://twitter.com/PranjalyaQuasar)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Pranjalya&left_color=gray&right_color=blue)
+[![Medium Badge](https://img.shields.io/badge/-@Pranjalya%20Tiwari-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pranjalyatiwari)](https://medium.com/@pranjalyatiwari)
+
+
 <a href="https://www.instagram.com/pranjalya_kvothe/">
   <img align="left" alt="Pranjalya's Instagram" width="35px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
 </a>
@@ -45,6 +52,8 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Mach
 - :scroll: My Resume: [Pranjalya Tiwari](https://drive.google.com/file/d/11SXNaZpv7n_vY3FobC0gC9BdEvUAFxX0/view?usp=sharing)
 
 <br/>
+
+[![Pranjalya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranjalya&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/Pranjalya/github-readme-stats)
 
 **Tools, Techniques and Languages I work with generally**
 <p>
