@@ -1,11 +1,11 @@
 ### Hey! :wave: I'm [Pranjalya](https://pranjalya.github.io), hailing from :india:  
 _It's pronounced as /prɑ:ndʒʌlyə/, by the way :no_mouth: :sweat_smile:_
 
-[![GitHub vermakhushboo](https://img.shields.io/github/followers/Pranjalya?label=follow&style=social)](https://github.com/Pranjalya)
-[![Linkedin: Khushboo Verma](https://img.shields.io/badge/-Pranjalya%20Tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjalya-tiwari/)](https://www.linkedin.com/in/pranjalya-tiwari/)
-[![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/PranjalyaQuasar?style=social)](https://twitter.com/PranjalyaQuasar)
+[![GitHub Pranjalya](https://img.shields.io/github/followers/Pranjalya?label=follow&style=social)](https://github.com/Pranjalya)
+[![Linkedin: Pranjalya Tiwari](https://img.shields.io/badge/-Pranjalya%20Tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjalya-tiwari/)](https://www.linkedin.com/in/pranjalya-tiwari/)
+[![Twitter: Pranjalya Tiwari](https://img.shields.io/twitter/follow/PranjalyaQuasar?style=social)](https://twitter.com/PranjalyaQuasar)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Pranjalya&left_color=gray&right_color=blue)
-[![Medium Badge](https://img.shields.io/badge/-@Pranjalya%20Tiwari-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pranjalyatiwari)](https://medium.com/@pranjalyatiwari)
+[![Medium: Pranjalya Tiwari](https://img.shields.io/badge/-@Pranjalya%20Tiwari-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pranjalyatiwari)](https://medium.com/@pranjalyatiwari)
 
 
 <a href="https://www.instagram.com/pranjalya_kvothe/">
@@ -35,13 +35,13 @@ _It's pronounced as /prɑ:ndʒʌlyə/, by the way :no_mouth: :sweat_smile:_
 
 <br/><br/>
 
-I am a __Software Engineer__ :man_technologist:, who works in the field of _Machine Learning_ and _Deep Learning_ in NLP :book:, Time-series :hourglass_flowing_sand:, Audio & Signal processing :notes: and Computer Vision :desktop_computer: in **@deepsync-technologies** along with _Data Engineering_ :mechanic: **@CoronaWhy** and _Full Stack Development_ :artificial_satellite: **@Kaissa**. I also do freelancing **[@Angel](https://angel.co/u/pranjalya-tiwari)** and DevOps stuff.
+I am a __Software Engineer__ :man_technologist:, who works in the field of _Machine Learning_ and _Deep Learning_ in NLP :book:, Time-series :hourglass_flowing_sand:, Audio & Signal processing :notes: and Computer Vision :desktop_computer: in **@deepsync-technologies** along with _Data Engineering_ :mechanic: **@CoronaWhy** and _Full Stack Development_ :artificial_satellite: **@Kaissa**. I also do freelancing **[@Angel](https://angel.co/u/pranjalya-tiwari)**, DevOps stuff and Web3 as well! 😉
 
   <img align="right" alt="Coding" src="https://media.giphy.com/media/fQGBjfGl29jY3jTx0J/giphy-downsized.gif" height="340px" />
 
 **Something about me**
 
-- 🔭 I’m currently working on **Algorithmic Trading**
+- 🔭 I’m currently working on **Algorithmic Trading** and **Web3**
 - 🌱 I’m currently learning Privacy Preserving Machine Learning
 - 👯 I’m looking to collaborate on any Reinforcement Learning task
 - :thinking: I’m looking for help with... :sweat_smile:
