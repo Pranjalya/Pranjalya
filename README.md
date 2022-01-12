@@ -20,22 +20,16 @@ _It's pronounced as /prɑ:ndʒʌlyə/, by the way :no_mouth: :sweat_smile:_
 <a href="https://medium.com/@pranjalyatiwari">
   <img align="left" alt="Pranjalya's Medium Blog" width="35px" src="https://img.icons8.com/color/48/000000/medium-logo.png" />
 </a>
-<a href="https://www.reddit.com/user/kvothethedulator">
-  <img align="left" alt="Pranjalya's Reddit" width="35px" src="https://img.icons8.com/doodle/48/000000/reddit.png" />
-</a>
 <a href="https://www.twitter.com/PranjalyaQuasar">
   <img align="left" alt="Pranjalya's Twitter" width="35px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/pranjalya-tiwari/">
   <img align="left" alt="Pranjalya's LinkedIn" width="35px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" />
 </a>  
-<a href="https://angel.co/u/pranjalya-tiwari">
-  <img align="left" alt="Pranjalya's AngeList" width="35px" src="https://img.icons8.com/nolan/64/angelist.png" />
-</a>
 
 <br/><br/>
 
-I am a __Software Engineer__ :man_technologist:, who works in the field of _Machine Learning_ and _Deep Learning_ in NLP :book:, Time-series :hourglass_flowing_sand:, Audio & Signal processing :notes: and Computer Vision :desktop_computer: in **@deepsync-technologies** along with _Data Engineering_ :mechanic: **@CoronaWhy** and _Full Stack Development_ :artificial_satellite: **@Kaissa**. I also do freelancing **[@Angel](https://angel.co/u/pranjalya-tiwari)**, DevOps stuff and Web3 as well! 😉
+I am a __Software Engineer__ :man_technologist:, who works in the field of _Machine Learning_ and _Deep Learning_ in NLP :book:, Time-series :hourglass_flowing_sand:, Audio & Signal processing :notes: and Computer Vision :desktop_computer: in **@deepsync-technologies** and (previously) _Data Engineering_ :mechanic: **@CoronaWhy** and _Full Stack Development_ :artificial_satellite: **@Kaissa**. I also perform DevOps stuff and work on Web3 as well! 😉
 
   <img align="right" alt="Coding" src="https://media.giphy.com/media/fQGBjfGl29jY3jTx0J/giphy-downsized.gif" height="340px" />
 
