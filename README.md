@@ -51,7 +51,7 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Mach
 
 **Tools, Techniques and Languages I work with generally**
 <p>
-<img align="left" alt="C" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img align="left" alt="PyTorch" src="./data/pytorch.png"/>
 <img align="left" alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="Vue.js" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
