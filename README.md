@@ -47,7 +47,7 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Mach
 
 <br/>
 
-[![Pranjalya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranjalya&hide=issues&count_private=true&show_icons=true&theme=calm)]()
+<!-- [![Pranjalya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranjalya&hide=issues&count_private=true&show_icons=true&theme=calm)]() -->
 
 **Tools, Techniques and Languages I work with generally**
 <p>
