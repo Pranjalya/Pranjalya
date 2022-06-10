@@ -29,6 +29,10 @@ _It's pronounced as /prɑ:ndʒʌlyə/, by the way :no_mouth: :sweat_smile:_
 
 <br/><br/>
 
+![snake gif](https://raw.githubusercontent.com/Pranjalya/Pranjalya/output/github-contribution-grid-snake.svg)
+
+<br/>
+
 I am a __Software Engineer__ :man_technologist:, who works in the field of _Machine Learning_ and _Deep Learning_ in NLP :book:, Time-series :hourglass_flowing_sand:, Audio & Signal processing :notes: and Computer Vision :desktop_computer: in **@deepsync-technologies** and (previously) _Data Engineering_ :mechanic: **@CoronaWhy** and _Full Stack Development_ :artificial_satellite: **@Kaissa**. I also perform DevOps stuff and work on Web3 as well! 😉
 
   <img align="right" alt="Coding" src="https://media.giphy.com/media/fQGBjfGl29jY3jTx0J/giphy-downsized.gif" height="340px" />
