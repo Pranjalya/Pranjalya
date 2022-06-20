@@ -70,6 +70,6 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Mach
 </p>
 <br/><br/><br/>
 
-<!-- Stats Dashboard -->
+<!-- Stats Dashboard and Details -->
 <p align = "center">
 </p>
