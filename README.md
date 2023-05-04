@@ -4,7 +4,6 @@ _It's pronounced as /prɑ:ndʒʌlyə/, by the way :no_mouth: :sweat_smile:_
 [![GitHub Pranjalya](https://img.shields.io/github/followers/Pranjalya?label=follow&style=social)](https://github.com/Pranjalya)
 [![Linkedin: Pranjalya Tiwari](https://img.shields.io/badge/-Pranjalya%20Tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjalya-tiwari/)](https://www.linkedin.com/in/pranjalya-tiwari/)
 [![Twitter: Pranjalya Tiwari](https://img.shields.io/twitter/follow/PranjalyaQuasar?style=social)](https://twitter.com/PranjalyaQuasar)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Pranjalya&left_color=gray&right_color=blue)
 [![Medium: Pranjalya Tiwari](https://img.shields.io/badge/-@Pranjalya%20Tiwari-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pranjalyatiwari)](https://medium.com/@pranjalyatiwari)
 
 
