@@ -1,5 +1,4 @@
 ### Hey! :wave: I'm [Pranjalya](https://pranjalya.github.io), hailing from :india:  
-_It's pronounced as /prɑ:ndʒʌlyə/, by the way :no_mouth: :sweat_smile:_
 
 [![GitHub Pranjalya](https://img.shields.io/github/followers/Pranjalya?label=follow&style=social)](https://github.com/Pranjalya)
 [![Linkedin: Pranjalya Tiwari](https://img.shields.io/badge/-Pranjalya%20Tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjalya-tiwari/)](https://www.linkedin.com/in/pranjalya-tiwari/)
