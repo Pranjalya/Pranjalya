@@ -50,7 +50,7 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Mach
 
 **Something about me**
 
-- 🔭 I’m currently working on **Algorithmic Trading** and **Web3**
+- 🔭 I’m currently working on **LLMs** and **Vision Models**
 - 🌱 I’m currently learning Privacy Preserving Machine Learning
 - 👯 I’m looking to collaborate on any Reinforcement Learning task
 - :thinking: I’m looking for help with... :sweat_smile:
