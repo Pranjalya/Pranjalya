@@ -58,7 +58,7 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Mach
 - 📫 How to reach me: Any of the platform above. I will be available. 😄 But, if you love gmail : _pranjalyatiwari10@gmail.com_
 - ⚡ Recently Read: _The Stranger, Albert Camus_ :alien:
 - ❤️ What do I love: Astronomy, Chess, Astrophysics, Cosmology, Writing and Cricket 🌠
-- 📜 My Resume: [Pranjalya Tiwari](https://drive.google.com/file/d/11SXNaZpv7n_vY3FobC0gC9BdEvUAFxX0/view?usp=sharing)
+- 📜 My Resume: [Pranjalya Tiwari](https://drive.google.com/file/d/1dIDIhxhZu1gBbtG-e9djc9zJ0aRW4jpD/view?usp=sharing)
 
 <br/>
 
