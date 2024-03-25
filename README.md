@@ -77,6 +77,7 @@ I am a __Software Engineer__ :man_technologist:, who works in the field of _Mach
 <img align="left" alt="Go" src="https://img.icons8.com/color/48/000000/golang.png"/>
 <img align="left" alt="GraphQL" src="https://img.icons8.com/color/48/000000/graphql.png"/>
 <img align="left" alt="Bash" src="https://img.icons8.com/color/48/000000/console.png"/>
+<img align="left" alt="Rust" src="https://img.icons8.com/nolan/48/rust-programming-language--v1.png"/>
 <img align="left" alt="Tensorflow" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 </p>
 <br/><br/><br/>
