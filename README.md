@@ -6,15 +6,6 @@
 [![Medium: Pranjalya Tiwari](https://img.shields.io/badge/-@Pranjalya%20Tiwari-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pranjalyatiwari)](https://medium.com/@pranjalyatiwari)
 
 
-<a href="https://www.instagram.com/pranjalya_kvothe/">
-  <img align="left" alt="Pranjalya's Instagram" width="35px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
-</a>
-<a href="https://www.messenger.com/t/pranjalya.tiwari/">
-  <img align="left" alt="Pranjalya's Facebook Messenger" width="35px" src="https://img.icons8.com/color/48/000000/facebook-messenger.png" />
-</a>
-<a href="https://t.me/pranjalyatiwari">
-  <img align="left" alt="Pranjalya's Telegram" width="35px" src="https://img.icons8.com/color/48/000000/telegram-app.png" />
-</a>
 <a href="https://medium.com/@pranjalyatiwari">
   <img align="left" alt="Pranjalya's Medium Blog" width="35px" src="https://img.icons8.com/color/48/000000/medium-logo.png" />
 </a>
